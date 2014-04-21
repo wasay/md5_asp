@@ -1,4 +1,4 @@
-md5.asp
+md5_asp
 =======
 
 MD5 calculation (Classic ASP)
